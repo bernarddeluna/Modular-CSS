@@ -1,7 +1,8 @@
 #Modular-CSS
 ===========
 > PT: Modular CSS é um conceito que se aplica sobre o Front-end. Ele consiste em transformar objectos reutilizáveis​em componentes, gerando classes padronizadas e bem-estruturadas com o objetivo de criar códigos escaláveis, reutilizáveis, customizáveis e enxutos.
-EN: Modular CSS is a concept that applies on the Front-end. It consists in transform reusable objects into components, generating standard and well-structured classes in order to create scalable, reusable, customizable and dry codes.
+
+> EN: Modular CSS is a concept that applies on the Front-end. It consists in transform reusable objects into components, generating standard and well-structured classes in order to create scalable, reusable, customizable and dry codes.
 
 
 
