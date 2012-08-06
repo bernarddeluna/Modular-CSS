@@ -11,6 +11,7 @@ Alguns links sobre esse conceito (Some links about this concecpt)
 ##Palestras e Apresentações (Talks and Presentations)
 * [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
 * [DRY CSS](http://vimeo.com/38063798 "DRY CSS")
+* [Arquitetura de Front-end em Aplicações de Larga Escala](https://speakerdeck.com/u/eshiota/p/arquitetura-de-front-end-em-aplicacoes-de-larga-escala "Arquitetura de Front-end em Aplicações de Larga Escala")
 * [Modular CSS - Projetando CSS para aplicativos](http://www.slideshare.net/bernarddeluna/modular-css-projetando-css-para-aplicativos "Modular CSS")
 
 
