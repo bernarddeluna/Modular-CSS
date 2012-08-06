@@ -21,12 +21,14 @@ Alguns links sobre esse conceito (Some links about this concecpt)
 * [Modular CSS from 10,000 feet](http://www.zdnet.com/modular-css-from-10000-feet-4010026088/ "Modular CSS from 10,000 feet")
 * [Modular CSS by Alan Ayoub](http://www.alanayoub.com/modular-css/ "Modular CSS")
 
+
 ##Frameworks e conceitos (frameworks and concepts)
 * [OOCSS](http://oocss.org/ "OOCSS")
 * [OOCSS WIKI](https://github.com/stubbornella/oocss/wiki/ "OOCSS Wiki")
 * [SMACSS](http://smacss.com/ "SMACSS")
 * [Foundation](http://foundation.zurb.com/ "Foundation")
 * [DRY CSS](http://vimeo.com/38063798 "DRY CSS")
+* [Normalize css](http://necolas.github.com/normalize.css/ "Normalize css")
 
 ##Groups
 * [CSS Modular Brasil](http://www.facebook.com/groups/403814526332579/ "CSS Modular Brasil")
