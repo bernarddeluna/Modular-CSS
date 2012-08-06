@@ -11,9 +11,10 @@ Alguns links sobre esse conceito (Some links about this concecpt)
 ##Palestras e Apresentações (Talks and Presentations)
 * [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
 * [DRY CSS](http://vimeo.com/38063798 "DRY CSS")
+* [Getting Your CSS Under Control](https://speakerdeck.com/u/snookca/p/getting-your-css-under-control "Getting Your CSS Under Control")
 * [Arquitetura de Front-end em Aplicações de Larga Escala](https://speakerdeck.com/u/eshiota/p/arquitetura-de-front-end-em-aplicacoes-de-larga-escala "Arquitetura de Front-end em Aplicações de Larga Escala")
 * [Modular CSS - Projetando CSS para aplicativos](http://www.slideshare.net/bernarddeluna/modular-css-projetando-css-para-aplicativos "Modular CSS")
-
+* [CSS Summit: Style Guide-Driven UI Design with Sass](https://speakerdeck.com/u/jina/p/css-summit-style-guide-driven-ui-design-with-sass "CSS Summit: Style Guide-Driven UI Design with Sass")
 
 ##Blog Posts
 * [Writing scalable CSS](http://dl.dropbox.com/u/2629908/sky/css/index.html "Writing scalable CSS")
