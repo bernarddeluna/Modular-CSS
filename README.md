@@ -4,7 +4,8 @@
 Alguns links sobre esse conceito (Some links about this concecpt)
 
 ##Palestras e Apresentações (Talks and Presentations)
-* [OOCSS by Nicoe Sulivan](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
+* [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
+* [DRY CSS](http://vimeo.com/38063798 "DRY CSS")
 * [Modular CSS - Projetando CSS para aplicativos](http://www.slideshare.net/bernarddeluna/modular-css-projetando-css-para-aplicativos "Modular CSS")
 
 
@@ -17,7 +18,8 @@ Alguns links sobre esse conceito (Some links about this concecpt)
 * [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/ "The single responsibility principle applied to CSS")
 * [Building a Responsive Grid With Foundation](http://robdodson.me/blog/2012/06/10/building-a-responsive-grid-with-foundation/ "Building a Responsive Grid With Foundation")
 * [DRY CSS: Don’t Repeat Your CSS](http://www.vanseodesign.com/css/dry-principles/ "DRY CSS: Don’t Repeat Your CSS")
-
+* [Modular CSS from 10,000 feet](http://www.zdnet.com/modular-css-from-10000-feet-4010026088/ "Modular CSS from 10,000 feet")
+* [Modular CSS by Alan Ayoub](http://www.alanayoub.com/modular-css/ "Modular CSS")
 
 ##Frameworks e conceitos (frameworks and concepts)
 * [OOCSS](http://oocss.org/ "OOCSS")
