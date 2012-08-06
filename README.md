@@ -4,8 +4,8 @@
 Alguns links sobre esse conceito (Some links about this concecpt)
 
 ##Palestras e Apresentações (Talks and Presentations)
-*[OOCSS by Nicoe Sulivan](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
-*[Modular CSS - Projetando CSS para aplicativos](http://www.slideshare.net/bernarddeluna/modular-css-projetando-css-para-aplicativos "Modular CSS")
+* [OOCSS by Nicoe Sulivan](http://www.slideshare.net/stubbornella/object-oriented-css "OOCSS by Nicole Sulivan")
+* [Modular CSS - Projetando CSS para aplicativos](http://www.slideshare.net/bernarddeluna/modular-css-projetando-css-para-aplicativos "Modular CSS")
 
 
 ##Blog Posts
